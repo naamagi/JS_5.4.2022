@@ -2,7 +2,7 @@
 
 Version 1.0.0
 
-## Sample of Hotel website
+## JS basics
 ---
 Contributors
 -Naama G.
