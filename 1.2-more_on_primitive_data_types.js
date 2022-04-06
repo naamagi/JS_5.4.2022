@@ -56,7 +56,8 @@ let taxRestaurant=0.15;
 /*
 3. create a variable that will calculate the bill * tax and its output would be: Your total bill is <total bill> $.
  */
-let taxForBill=`Your total bill is ${bill*taxRestaurant} $.`
+let total=`Your total bill is ${bill*taxRestaurant+bill} $.`
+console.log(total);
 // Round the number 50.6 to its nearest integer
 let rounded=Math.round(50.6);
 //Create a variable that is undefined
